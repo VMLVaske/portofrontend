@@ -13,7 +13,7 @@ This repo contains the frontend part of the project submission. Something went t
 
 # TAIKAI Project Submission
 
-[Original Project Submission](https://taikai.network/ethporto/hackathons/ethportohackathon2023/projects/clfct42b366652701x2n5vrq6kv/idea)
+[Original Project Submission](https://taikai.network/ethporto/hackathons/ethportohackathon2023/projects/clfct42b366652701x2n5vrq6kv)
 
 # Idea
 
